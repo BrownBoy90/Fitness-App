@@ -1,0 +1,9 @@
+{
+  "name": "Effortlessly Strong Tracker",
+  "short_name": "Strong",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1016",
+  "theme_color": "#0c1117",
+  "description": "Mobile-first strength, nutrition and habit tracker."
+}
